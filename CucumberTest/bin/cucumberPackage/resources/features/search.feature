@@ -9,7 +9,7 @@ I want to click the search button
 In order to verify the number is found
 
 Background:  User is on search page
-Give I am on the "Search" page
+Given I am on the "Search" page
 
 Scenario:  Successful search
 
